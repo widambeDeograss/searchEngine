@@ -160,12 +160,6 @@ def register_Users(request):
     return Response(data)
 
 
-# {
-#     "username":"Michael",
-#     "email":"michaelcyril71@gmail.com",
-#     "password":"123",
-# }
-
 
 @api_view(['POST'])
 @permission_classes({AllowAny})
@@ -182,12 +176,6 @@ def login_user(request):
 
 
 # return render(request, 'login.html')
-
-# {
-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
-# "username":"Michael",
-# "password":"123"
-# }
 
 
 @api_view(['POST'])
