@@ -1,8 +1,9 @@
+<h1><strong>Search Engine</strong></h1>
 <h1>
   <a href="https://github.com/widambeDeograss/saerchEngine
     <!-- Please provide path to your logo here -->
   </a>
-<strong>Search Engine</strong>
+
 </h1>
 
 <div align="center">
